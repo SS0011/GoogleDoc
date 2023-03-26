@@ -1,0 +1,22 @@
+.main{
+    border: 1px solid rgb(210, 210, 210);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem 0rem 1rem;
+    background-color: rgba(244, 247, 248, 0.477);
+    
+ 
+}
+.textarea{
+    width: 40%;
+    height: 140vh;
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 2px 2px rgb(184, 184, 184);
+    padding: 6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 540;
+    font-size: 0.9rem;
+    color: rgb(88, 88, 88);
+}
